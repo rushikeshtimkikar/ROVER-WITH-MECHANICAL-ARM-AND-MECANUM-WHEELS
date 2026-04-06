@@ -7,7 +7,7 @@
 
 ## 📸 Preview
 
-![Rover Preview]((rover-preview.png))
+![Rover Preview](rover-preview.png)
 
 
 
