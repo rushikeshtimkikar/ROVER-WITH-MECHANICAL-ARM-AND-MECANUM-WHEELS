@@ -7,9 +7,9 @@
 
 ## 📸 Preview
 
-![Rover Preview](exports/rover-preview.png)
+![Rover Preview]((rover-preview.png))
 
-> *Export a screenshot from Fusion 360 and place it at `exports/rover-preview.png` to display here.*
+
 
 ---
 
